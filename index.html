@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Tetris</title>
+	<style type="text/css">
+		body {
+			background: #000000;
+			color: #fff;
+			font-family: sans-serif;
+			font-size: 2em;
+			text-align: center;
+		}
+		.tetris {
+			border: solid .2em #252525;
+			height: 90vh;
+		}
+		.next {
+			border: solid .2em #252525;
+			height: 70vh;
+			vertical-align: top;
+		}
+		.hold {
+			border: solid .2em #252525;
+			height: 16vh;
+			vertical-align: top;
+		}
+	</style>
+</head>
+<body>
+	<div id="score"></div>
+	<canvas id="hold" class="hold"width="50" height="50"></canvas>
+	&nbsp;
+	<canvas id="tetris" class="tetris" width="200" height="400"></canvas>
+	&nbsp;
+	<canvas id="next" class="next" width="50" height="200"></canvas>
+	
+	
+	<script type="text/javascript" src="tetris.js"></script>
+
+</body>
+</html>
