@@ -1,5 +1,4 @@
-# Taonganambela.github.io
-Introduction to Tetris: The Classic Puzzle Game
+# Introduction to Tetris: The Classic Puzzle Game
 
 Tetris, a timeless classic in the world of video games, is a captivating puzzle game that has captured the hearts and minds of players for decades. Created by Alexey Pajitnov in 1984, Tetris has become one of the most recognized and beloved games of all time, known for its simple yet addictive gameplay and iconic block-shaped pieces.
 
