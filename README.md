@@ -1,5 +1,6 @@
 # Introduction to Tetris: The Classic Puzzle Game
 
+
 Tetris, a timeless classic in the world of video games, is a captivating puzzle game that has captured the hearts and minds of players for decades. Created by Alexey Pajitnov in 1984, Tetris has become one of the most recognized and beloved games of all time, known for its simple yet addictive gameplay and iconic block-shaped pieces.
 
 The objective of Tetris is straightforward: players must arrange falling tetrominoes, which are geometric shapes composed of four squares, in a strategic manner to create complete horizontal lines. As the tetrominoes descend from the top of the screen, players must rotate and maneuver them into position before they stack up to the top. When a line is formed without any gaps, it vanishes, allowing the player to score points and create more space on the game board.
